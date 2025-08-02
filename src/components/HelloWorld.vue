@@ -1,6 +1,9 @@
 <template>
   <div class="hello">
-  <h1> Welcome to Git page page - Gajeder</h1>
+  <h1> Welcome to Git page page - Gajender</h1>
+    <h1>{{ msg }}</h1>
+    <br>
+  <h1> Welcome to Git page page - Gajender</h1>
     <h1>{{ msg }}</h1>
     <br>
     
